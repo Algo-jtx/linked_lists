@@ -106,3 +106,28 @@ int search(struct Node* head, int key) {
     return -1;
 }
 
+int main() {
+    struct Node* head = NULL;
+
+    insertAtEnd(&head, 10);
+    insertAtEnd(&head, 20);
+    insertAtEnd(&head, 30);
+    insertAtBeginning(&head, 5);
+    insertAtPosition(&head, 25, 4);
+
+    printf("Linked List: ");
+    traverse(head);
+
+    deleteNode(&head, 20);
+
+    printf("After deletion: ");
+    traverse(head);
+
+    int pos = search(head, 30);
+    if (pos != -1)
+        printf("30 found at position %d\n", pos);
+    else
+        printf("30 not found\n");
+
+    return 0;
+}
