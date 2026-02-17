@@ -16,16 +16,6 @@ This `README.md` serves as the **research documentation and presentation** for t
 
 ---
 
-## 🎯 Objectives
-The objectives of this assignment are to:
-- Explain linked lists as a data structure classification
-- Describe different types of linked lists
-- Identify real-world applications of linked lists
-- Explain why linked lists are chosen over other data structures
-- Describe how linked lists and algorithms work together within systems
-
----
-
 ## 🧠 Data Structure Classification Context
 Linked Lists fall under the following classification:
 
