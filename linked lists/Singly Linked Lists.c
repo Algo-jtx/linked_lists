@@ -93,3 +93,16 @@ void traverse(struct Node* head) {
     printf("NULL\n");
 }
 
+int search(struct Node* head, int key) {
+    int position = 1;
+
+    while (head != NULL) {
+        if (head->data == key)
+            return position;
+
+        head = head->next;
+        position++;
+    }
+    return -1;
+}
+
