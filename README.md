@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 This project focuses on **Linked Lists** as a classification under **Non-Primitive → Linear → Dynamic Data Structures**.  
 The goal is to demonstrate understanding of:
 - What linked lists are
@@ -16,7 +16,7 @@ This `README.md` serves as the **research documentation and presentation** for t
 
 ---
 
-## 🧠 Data Structure Classification Context
+## Data Structure Classification Context
 Linked Lists fall under the following classification:
 
 - **Non-Primitive Data Structures**
@@ -33,7 +33,7 @@ Linked Lists fall under the following classification:
 
 ---
 
-## 🔗 What Is a Linked List?
+## What Is a Linked List?
 A **Linked List** is a linear data structure in which elements (called **nodes**) are stored in non-contiguous memory locations.  
 Each node contains:
 - **Data** – the value being stored
@@ -43,7 +43,7 @@ Unlike arrays, linked lists do **not require contiguous memory**, making them fl
 
 ---
 
-## 🧩 Types of Linked Lists
+## Types of Linked Lists
 
 ### 1. Singly Linked List
 Each node points to the **next node only**.
@@ -90,7 +90,7 @@ The last node points back to the **first node**, forming a loop.
 
 ---
 
-## ⚙️ Basic Linked List Operations
+## Basic Linked List Operations
 The following operations are commonly performed on linked lists:
 - Insertion (at beginning, middle, or end)
 - Deletion
@@ -102,7 +102,7 @@ The following operations are commonly performed on linked lists:
 
 ---
 
-## 🧮 Algorithms Used with Linked Lists
+## Algorithms Used with Linked Lists
 Linked lists are commonly used with algorithms such as:
 - Traversal algorithms
 - Searching algorithms (Linear Search)
@@ -135,7 +135,7 @@ Linked lists are commonly used with algorithms such as:
 
 ---
 
-## 🧠 Why Linked Lists Are Used
+## Why Linked Lists Are Used
 Linked lists are preferred over arrays when:
 - The size of data is unknown
 - Frequent insertions and deletions are required
@@ -154,7 +154,7 @@ Linked lists are preferred over arrays when:
 
 ---
 
-## 🔄 How Linked Lists Work Within Systems
+## How Linked Lists Work Within Systems
 Within computer systems:
 - Linked lists manage dynamic memory efficiently
 - They support system-level operations like task scheduling
@@ -175,7 +175,7 @@ This project is stored in a GitHub repository as part of a group assignment.
 
 ---
 
-## 📝 Conclusion
+## Conclusion
 Linked lists are a fundamental data structure in computer science, offering flexibility and efficiency for dynamic data handling.  
 This project demonstrates:
 - Proper classification of linked lists
@@ -185,7 +185,7 @@ This project demonstrates:
 
 ---
 
-## 📚 References
+## References
 - Data Structures Lecture Notes (VLMS)
 - Computer Science textbooks
 - Online programming documentation
